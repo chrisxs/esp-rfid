@@ -45,7 +45,7 @@ SOFTWARE.
 #include <Wiegand.h>
 
 WIEGAND wg;
-int relayPin = 13;
+int relayPin = 4;
 
 #endif
 
